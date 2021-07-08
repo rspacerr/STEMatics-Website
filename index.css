@@ -5,3 +5,7 @@
 .hide-on-med-and-down {
     margin-right: 20px;
 }
+
+body {
+    scroll-behavior: smooth;
+}

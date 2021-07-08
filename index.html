@@ -4,7 +4,9 @@
         <meta charset="UTF-8">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <script defer type="text/javascript" 
+        src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <script defer src="main.js"></script>
         <link rel="stylesheet" href="index.css">
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <title>STEMatics Home</title>
@@ -37,16 +39,25 @@
                         <li><a href="#">  Contact </a></li>
                     </ul>
                 </div>
-                <!--Await Dropdown Activation-->
-                <script>
-                    document.addEventListener('DOMContentLoaded', function(){
-                        var drop=document.querySelectorAll(".dropdown-trigger")
-                        M.Dropdown.init(drop,{
-                            coverTrigger:false
-                        })
-                    })
-                </script>
             </nav>
         </header>
+        <section class="hero">
+            <div class="slider">
+                <ul class="slides">
+                    <li class="slide">
+                        <img src="images/science.jpeg" alt="hero-1">
+                    </li>
+                     <li class="slide">
+                        <img src="images/technology.jpeg" alt="hero-2">
+                    </li>
+                    <li class="slide">
+                        <img src="images/engineering.jpeg" alt="hero-3">
+                    </li>
+                    <li class="slide">
+                        <img src="images/math.jpeg" alt="hero-4">
+                    </li>
+                </ul>
+            </div>
+        </section>
     </body>
 </html>
