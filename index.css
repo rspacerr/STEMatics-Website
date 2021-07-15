@@ -5,3 +5,15 @@
 .hide-on-med-and-down {
     margin-right: 20px;
 }
+
+body {
+    scroll-behavior: smooth;
+}
+
+/* 
+ * TODO: resize images in hero 
+ * and change color of captions
+ */
+.caption {
+    color:black;
+}
