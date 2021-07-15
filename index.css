@@ -10,6 +10,19 @@ body {
     scroll-behavior: smooth;
 }
 
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+
 /* 
  * TODO: resize images in hero 
  * and change color of captions
