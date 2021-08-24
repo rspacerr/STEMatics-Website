@@ -30,3 +30,9 @@ a:hover {
 .caption {
     color:black;
 }
+
+/* Footer */
+.copy {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
