@@ -1,5 +1,12 @@
+.titlecard {
+    font-weight:bold;
+    margin-left: 35px;
+    color: blue;
+}
+
 .tinkercad {
-    text-align:center;
+    text-align:left;
+    margin-left: 45px;
 }
 
 /* Footer */
@@ -9,11 +16,20 @@
 }
 
 .portfolios {
-    text-align:center;
+    text-align:left;
+    margin-left: 45px;
     margin-bottom: 50px;
+}
+
+h2 {
+    font-weight:bold;
 }
 
 h3 {
     font-weight:bold;
+}
+
+body {
+    background-color: #d4f5ff;
 }
 
