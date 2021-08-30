@@ -1,3 +1,19 @@
 .tinkercad {
     text-align:center;
 }
+
+/* Footer */
+.copy {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.portfolios {
+    text-align:center;
+    margin-bottom: 50px;
+}
+
+h3 {
+    font-weight:bold;
+}
+
