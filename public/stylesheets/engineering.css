@@ -9,6 +9,15 @@
     margin-left: 45px;
 }
 
+/* Nav Logo */
+.brand-logo {
+    margin-left: 20px;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
 /* Footer */
 .copy {
     padding-top: 20px;
@@ -31,5 +40,11 @@ h3 {
 
 body {
     background-color: #d4f5ff;
+}
+
+img {
+    margin-right: 50px;
+    margin-left: 20px;
+    align-items: right;
 }
 
