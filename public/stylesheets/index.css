@@ -9,6 +9,7 @@
 body {
     scroll-behavior: smooth;
     background-color: #d4f5ff;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 h3 {
