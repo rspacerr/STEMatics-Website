@@ -1,0 +1,21 @@
+.about {
+    text-align:center;
+}
+.card-content {
+    color: black;
+}
+
+.card-action {
+    color:black;
+}
+
+h3 {
+    text-align: center;
+}
+
+/*
+h6 {
+    text-align: center;
+    font-weight:bold;
+}
+*/
