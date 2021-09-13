@@ -39,6 +39,7 @@ a:hover {
 }
 
 
+
 /* 
  * TODO: resize images in hero 
  * and change color of captions
@@ -56,4 +57,8 @@ a:hover {
 
 .card {
     color: #a7c7fe;
+}
+
+.card-action {
+    color: white;
 }
