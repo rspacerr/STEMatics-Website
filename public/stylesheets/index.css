@@ -34,6 +34,10 @@ a:hover {
     font-weight: bold;
 }
 
+.card-title + p2 {
+    font-weight:bold;
+}
+
 
 /* 
  * TODO: resize images in hero 
