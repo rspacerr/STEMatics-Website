@@ -12,3 +12,8 @@ h3 {
 p {
     text-align:center;
 }
+
+.hero {
+    height: 20%;
+    position: relative;
+}
