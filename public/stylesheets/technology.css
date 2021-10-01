@@ -11,7 +11,6 @@
 
 h3 {
     text-align: center;
-    color:limegreen;
 }
 
 .videoTech {
@@ -23,7 +22,13 @@ h3 {
 
 .card {
     /* height: 500px; */
-     width: 250px; 
+     width: 275px; 
+}
+
+p {
+    text-align:center;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 /*
