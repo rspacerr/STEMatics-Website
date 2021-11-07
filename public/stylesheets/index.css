@@ -23,11 +23,7 @@ h3 {
 }
 
 a:link {
-    color: white;
-}
-
-a:visited {
-    color: white;
+    color: black;
 }
 
 a:hover {
@@ -38,7 +34,12 @@ a:hover {
     font-weight:bold;
 }
 
-
+.special {
+    color:black;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 
 /* 
  * TODO: resize images in hero 
@@ -50,7 +51,7 @@ a:hover {
 
 /* Footer */
 .copy {
-    /* margin-top: 300px; */
+    margin-top: 60px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
