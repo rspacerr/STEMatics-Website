@@ -22,7 +22,8 @@ h3 {
 
 .card {
     /* height: 500px; */
-     width: 324px; 
+     width: 350px;
+     margin-left:30px;
 }
 
 p {
